@@ -1,4 +1,4 @@
-# modul-14-sertifikasi-gratis
+# sertifikasi-gratis
 
 Panduan **sertifikasi dan sertifikat gratis** untuk cybersecurity.
 Fokus pada opsi entry‑level hingga menengah.
@@ -207,5 +207,5 @@ Bangun portofolio tanpa biaya ujian.
 
 ---
 
-[⬆️ Kembali ke atas](#modul-14-sertifikasi-gratis)
+[⬆️ Kembali ke atas](#sertifikasi-gratis)
 
