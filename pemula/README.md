@@ -1,6 +1,6 @@
 # Daftar Modul
 
-1. [modul-01-dasar-it](./modul-01-dasar-it.md) — Fondasi IT untuk jalur cybersecurity: konsep inti, alat, dan praktik.
+1. [modul-01-dasar-it](./modul-01-dasar-it/README.md) — Fondasi IT untuk jalur cybersecurity: konsep inti, alat, dan praktik.
 2. [modul-02-dasar-jaringan](./modul-02-dasar-jaringan.md) — Dasar jaringan: OSI, TCP/IP, subnetting, VLAN, routing, NAT, dan DNS.
 3. [modul-03-linux-dasar](./modul-03-linux-dasar.md) — Dasar Linux: CLI, filesystem, permission, proses, layanan, paket, dan networking.
 4. [modul-04-pengenalan-security](./modul-04-pengenalan-security.md) — Pengantar security: perbedaan cybersecurity dan InfoSec, prinsip, kontrol, dan incident response.
