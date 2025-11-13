@@ -7,5 +7,7 @@ FOLLOW saya sebagai bentuk support agar konten ini terus di kembangkan.
 Social Media handle:
 
 LinkedIn: https://www.linkedin.com/in/faisalyahya
+
 Instagram: https://www.instagram.com/faisalyahya
+
 TIKTOK: /faisal.yahya
