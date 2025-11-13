@@ -26,8 +26,8 @@ Semua kontributor diharapkan untuk:
 ## 🛡 Pelaporan Pelanggaran
 Jika Anda melihat perilaku tidak sesuai, harap laporkan melalui:
 
-**→ GitHub Issue (label: `code-of-conduct`)**  
-atau kontak maintainer repo (di bagian GitHub “About”).
+**→ GitHub Issue 
+kontak maintainer repo (di bagian GitHub “About”).
 
 Semua laporan akan ditangani dengan rahasia & profesional.
 
