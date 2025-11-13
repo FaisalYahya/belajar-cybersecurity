@@ -1,3 +1,7 @@
+Folder ini berisi modul pembelajaran cybersecurity untuk pemula.  
+Tujuannya memandu belajar bertahap, dari dasar IT hingga cloud security.  
+Setiap modul ringkas, praktis, dan siap dipakai di lab pribadi.
+
 # Daftar Modul
 
 1. [modul-01-dasar-it](./modul-01-dasar-it/README.md) — Fondasi IT untuk jalur cybersecurity: konsep inti, alat, dan praktik.
