@@ -1,4 +1,4 @@
-# modul-08-isc2-cissp
+# isc2-cissp
 
 Panduan lengkap **ISC2 CISSP** untuk calon dan pemegang sertifikat.  
 Fokus pada struktur ujian, materi, dan pemeliharaan sertifikasi.
@@ -218,4 +218,4 @@ Berdasarkan **CISSP Exam Outline** terbaru. :contentReference[oaicite:12]{index=
 
 ---
 
-[⬆️ Kembali ke atas](#modul-08-isc2-cissp)
+[⬆️ Kembali ke atas](#isc2-cissp)
