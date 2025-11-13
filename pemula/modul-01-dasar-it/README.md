@@ -5,7 +5,7 @@ Gunakan modul ini sebagai peta belajar awal.
 Fokus pada konsep inti sebelum alat canggih.
 
 > [!TIP]
-> Belajar sedikit, tapi konsisten.
+> Belajar perlahan atau sedikit2, tapi konsisten.
 > Latih konsep di lab pribadi Anda.
 
 ## Daftar Isi
