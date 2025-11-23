@@ -508,15 +508,6 @@ Beberapa jalur populer:
 
   * Security+, CISSP associate, dsb.
 
----
-
-Silakan fork / copy README ini, lalu sesuaikan dengan:
-
-* Jadwal pribadi
-* Gaya belajar Anda
-* Resource tambahan yang Anda temukan
-
-Kalau mau, Anda bisa menambahkan bagian **“Catatan Pribadi”** di akhir file untuk melacak progress dan refleksi tiap minggu. Semoga lulus CCSK v5 di attempt pertama! 💪
 
 [1]: https://cloudsecurityalliance.org/education/ccsk "Certificate of Cloud Security Knowledge (CCSK) | CSA"
 [2]: https://exams.cloudsecurityalliance.org/faq "Frequently Asked Questions - CSA Exams Platform"
